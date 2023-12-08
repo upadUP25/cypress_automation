@@ -1,0 +1,10 @@
+{
+    "validUser": {
+      "email": "sourabh.khanawale",
+      "password": "password123"
+    },
+    "staff": {
+      "firstName": "Anil",
+      "lastName": "Tester"
+    }
+}
